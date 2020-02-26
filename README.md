@@ -1,5 +1,5 @@
 <h1 align="center">
-    Get Start GitHub Project Template (replace with your project name)
+    Doe Sangue
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/codepro-ao/getstart-template-project">
@@ -28,7 +28,6 @@
 
 ## :rocket: Techs
 
-#### (replace with your project Technologies)
 This project was developed with the following technologies:
 
 - [Javascript](https://www.w3schools.com/js/)
@@ -37,18 +36,15 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-#### (replace with your project description)
-Project description
+This is a blood donation project
 
 ## Layout
 
-#### (replace with your link preview project)
-[Preview](https://github.com/codepro-ao/)
+[Preview](https://github.com/CarlCr/doe-sangue)
 
 
 ### Layout Exemple Image
 
-#### (replace with your project layout)
 ![Layout Image Exemple](Layout.jpg)
 
 ## 🤔 How to Contribute
@@ -62,11 +58,10 @@ After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
 
-#### (replace with your license project)
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 
 ## Author
-#### (replace with your author project)
+
 [Carlos Garcia](https://github.com/CarlCr)
 
