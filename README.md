@@ -40,7 +40,7 @@ This is a blood donation project
 
 ## Layout
 
-[Preview](https://github.com/CarlCr/doe-sangue)
+[Preview](https://codepro-doesangue.netlify.com/)
 
 
 ### Layout Exemple Image
